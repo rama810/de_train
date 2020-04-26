@@ -1,0 +1,35 @@
+{
+  "type": "GenericSmelter",
+  "name": "Carbon Fabricator",
+  "description": "Seperates carbon from coal and graphite to create solid carbon.",
+  "health": 80,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "craftTime": 60,
+  "updateEffect": "producesmoke",
+  "consumes": {
+    "power": 5,
+    "items": {
+      "items": [
+        {"item": "coal", "amount": 2},
+        {"item": "graphite", "amount": 1}
+      ]
+    }
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.2
+    }
+  }
+  "requirements": [
+    {"item": "copper", "amount": 90},
+    {"item": "iron", "amount": 100},
+    {"item": "steel", "amount": 50}
+  ]
+  "category": "crafting",
+  "research": "steel-forger",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+  outputItem: {"item": "carbon", "amount": 1}
+}

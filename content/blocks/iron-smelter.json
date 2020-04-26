@@ -1,0 +1,32 @@
+{
+  "type": "GenericCrafter",
+  "name": "Iron Smelter",
+  "description": "Turns pig iron into molten iron.",
+  "size": 2,
+  "health": 60,
+  "itemCapacity": 10,
+  "liquidCapacity": 10,
+  "outputLiquid": {"liquid": "molten-iron", "amount": 12}
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "craftTime": 60,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 2,
+    "items": {
+      "items": [
+        {"item": "pig-iron","amount": 2}
+      ]
+    }
+  }
+  "requirements": [
+    {"item": "copper", "amount": 70},
+    {"item": "iron", "amount": 65},
+    {"item": "graphite", "amount": 25}
+  ]
+  "category": "crafting",
+  "research": "kiln",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+}

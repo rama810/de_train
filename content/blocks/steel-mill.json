@@ -1,0 +1,29 @@
+{
+  "type": "genericSmelter",
+  "name": "Steel Mill",
+  "description": "An advanced version of the steel forger. Now with the ability to produce steel from molten ingot which is melted from pig iron in just one place.",
+  "health": "120",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "outputItem": {"item": "steel", "amount": 2}
+  "craftTime": 60,
+  "consumes": {
+    "power": 3.5,
+    "items": {
+      "items":[
+        {"item": "pig-iron", "amount": 3}
+      ]
+    }
+    "liquid": {"liquid":"water", "amount": 0.2}
+  }
+  "requirements": [
+    {"item": "copper", "amount": 80},
+    {"item": "iron", "amount": 60},
+    {"item": "steel", "amount": 40}
+  ]
+  "category": "crafting",
+  "research": "steel-forger",
+  "idleSound": "respawning",
+  "idleSoundVolume": "0.5"
+}

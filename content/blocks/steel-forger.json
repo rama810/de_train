@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "name": "Steel Forger",
+  "description": "Produces steel from molten iron.",
+  "health": 80,
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "outputItem": {"item": "steel", "amount": 1}
+  "craftTime": 60,
+  "consumes": {
+    "power": 3,
+    "liquid": {"liquid": "molten-iron", "amount": 0.2}
+  }
+  "requirements": [
+    {"item": "copper", "amount": 80},
+    {"item": "iron", "amount": 70},
+    {"item": "graphite", "amount": 30}
+  ]
+  "category": "crafting",
+  "research": "blast-furnace",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+}

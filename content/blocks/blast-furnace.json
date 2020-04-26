@@ -1,0 +1,29 @@
+{
+  "type": "GenericSmelter",
+  "name": "Blast Furnace",
+  "description": "Smelts iron ore into pig iron for further production.",
+  "health": 60,
+  "size": 2,
+  "outputItem": {"item": "pig-iron", "amount": 1},
+  "hasPower": true,
+  "hasItems": true,
+  "craftTime": 40,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 0.8,
+    "items": {
+      "items": [
+        {"item": "iron", "amount": 2}
+      ]
+    }
+  }
+  "requirements":[
+      {"item": "copper", "amount": 50},
+      {"item": "iron","amount": 40},
+      {"item": "graphite", "amount": 20}
+    ]
+  "category": "crafting",
+  "research": "graphite-press",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+}
