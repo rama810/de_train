@@ -1,0 +1,7 @@
+{
+  "type": "resource",
+  "name": "Chromium",
+  "description": "No, it's not blue. Not a software either.",
+  "hardness": 4,
+  "playerUnmineable": true
+}

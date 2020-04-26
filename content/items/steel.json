@@ -1,0 +1,7 @@
+{
+  "type": "material",
+  "name": "Steel",
+  "description": "This description is steel under development.",
+  "cost": 1,
+  "color": "#a3a3a3"
+}
