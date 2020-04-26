@@ -2,7 +2,7 @@
   "name": "de_train",
   "displayName": "[#3d8200]de_train",
   "author": "Gdeft",
-  "description": "This is not a map, or is it? No, it's not. This is a mod, very surprising indeed. Still in development, don't play it.\n\n[accent]Whats in version 0.1.10:\n[]• New block: Steel Mill\n• Balanced build cost, may change later\n• New sprites: Steel, Pig Iron",
+  "description": "This is not a map. The place where I mess with codes, and accidentally created one of those games that uses parts of something to make other parts of something.\n[accent]Links :[]\n• https://github.com/Gdeft/de_train\n• No discord for now.",
   "version": "0.1.10",
   "minGameVersion": "104.10"
 } 
