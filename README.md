@@ -1,4 +1,5 @@
-<img align="center" alt="Logo" src="/sprites-override/ui/logo.png">
+<p align="center">
+<img alt="Logo" src="/sprites-override/ui/logo.png"> </p>
 
 <p align="center"> [insert something here] </p>
 
