@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Logo" src="/sprites-override/ui/logo.png"> </p>
+<img alt="Logo" src="logo.png"> </p>
 
 [![Discord](https://img.shields.io/discord/704355237246402721)](https://discord.gg/RCCVQFW)
 
