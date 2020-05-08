@@ -8,7 +8,7 @@
 ## What is mod this about?
 
 <p align=justify>
-This mod is focused on production and transportation, also units. And the main reason (also the main thing) about this mod is the trains. I'm planning on creating pylon-like thing that has cables for the train to move on. But it's going to be on the low-priority since 6.0 hasn't released and I need to learn about JavaScript more. </p>
+This mod is focused on production and transportation, also units. And the main reason (also the main thing) about this mod is the trains. I'm planning on creating pylon-like thing that has cables for the train to move on. But it's going to be on the low-priority since 6.0 hasn't released and I need to learn about JavaScript more. See Discord server for mod updates and something more, I guess. </p>
 
 ## Note
 
