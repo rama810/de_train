@@ -1,0 +1,28 @@
+{
+  "localizedName": "Fiber Producer",
+  "description": "Produces carbon fiber by mixing precusor containing polyacrlyonitrile together with carbon",
+  "outputItem": {"item": "carbon-fiber", "amount": 1}
+  "health": 100,
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "craftTime": 60,
+  "consumes": {
+    "power": 5.7,
+    "items": {
+      "items": [
+        {"item": "polyacrylonitrile", "amount": 3},
+        {"item": "carbon", "amount": 2}
+      ]
+    }
+  }
+  "requirements": [
+  {"item": "lead", "amount": 95},
+  {"item": "iron", "amount": 110},
+  {"item": "steel", "amount": 50},
+  ]
+  "category": "crafting",
+  "research": "synthesizer",
+  "idleSound": "machine",
+  "idleSoundVolume": 0.5,
+}

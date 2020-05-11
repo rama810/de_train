@@ -1,0 +1,23 @@
+{
+  "localizedName": "Nitrogen Generator",
+  "description": "Generates liquid nitrogen through heating nitrogen gas. Only requires power.",
+  "health": 60,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": true,
+  "outputLiquid": {"liquid":"nitrogen", "amount": 10}
+  "craftTime": 50,
+  "consumes": {
+    "power": 3.5
+  }
+  "requirements": [
+    {"item": "lead", "amount": 90},
+    {"item": "iron", "amount": 70},
+    {"item": "steel", "amount": 25}
+  ]
+  "category": "crafting",
+  "research": "iron-smelter",
+  "idleSound": "machine",
+  "idleSoundVolume": 0.5,
+  
+}

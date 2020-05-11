@@ -1,0 +1,29 @@
+{
+  "localizedName": "Synthesizer",
+  "description": "Synthesize polyacrylonitrile from carbon, hydrogen, and nitrogen."
+  "health": 70,
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "outputItem": {"item": "polyacrylonitrile", "amount": 2}
+  "craftTime": 60,
+  "consumes": {
+    "power": 3.7,
+    "items": {
+      "items": [
+        {"item": "carbon", "amount": 1}
+      ]
+    }
+    "liquid": {"liquid": "nitrogen", "amount": 0.25}
+  }
+  "requirements": [
+    {"item": "copper", "amount": 85},
+    {"item": "silicon", "amount": 50},
+    {"item": "steel", "amount": 30}
+  ]
+  "category": "crafting",
+  "research": "phase-weaver",
+  "idleSound": "machine",
+  "idleSoundVolume": "0.5"
+}
