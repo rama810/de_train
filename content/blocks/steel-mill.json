@@ -6,7 +6,8 @@
   "hasPower": true,
   "hasItems": true,
   "outputItem": {"item": "steel", "amount": 2}
-  "craftTime": 60,
+  "craftTime": 50,
+  "updateEffect": "pulverizeRed"
   "consumes": {
     "power": 3.5,
     "items": {

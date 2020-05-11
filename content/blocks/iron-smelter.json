@@ -6,11 +6,11 @@
   "itemCapacity": 10,
   "liquidCapacity": 10,
   "outputLiquid": {"liquid": "molten-iron", "amount": 12}
+  "flameColor": "ffd6d6",
   "hasPower": true,
   "hasLiquids": true,
   "hasItems": true,
   "craftTime": 60,
-  "updateEffect": "smeltsmoke",
   "consumes": {
     "power": 2,
     "items": {

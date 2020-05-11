@@ -1,4 +1,5 @@
 {
+  "type": "GenericSmelter",
   "name": "Steel Forger",
   "description": "Produces steel from molten iron.",
   "health": 80,
@@ -8,6 +9,7 @@
   "hasLiquids": true,
   "outputItem": {"item": "steel", "amount": 1}
   "craftTime": 60,
+  "updateEffect": "pulverizeRed",
   "consumes": {
     "power": 3,
     "liquid": {"liquid": "molten-iron", "amount": 0.2}

@@ -30,6 +30,7 @@
   "category": "crafting",
   "research": "steel-forger",
   "idleSound": "respawning",
-  "idleSoundVolume": 0.5
-  outputItem: {"item": "carbon", "amount": 1}
+  "idleSoundVolume": 0.5,
+  "flameColor": "#c2fff9"
+  "outputItem": {"item": "carbon", "amount": 1}
 }
