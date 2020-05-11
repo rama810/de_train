@@ -1,5 +1,4 @@
 {
-  "type": "GenericCrafter",
   "name": "Steel Forger",
   "description": "Produces steel from molten iron.",
   "health": 80,
