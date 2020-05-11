@@ -1,5 +1,4 @@
 {
-  "type": "GenericCrafter",
   "name": "Iron Smelter",
   "description": "Turns pig iron into molten iron.",
   "size": 2,
