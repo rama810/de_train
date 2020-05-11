@@ -1,5 +1,4 @@
 {
-  "type": "genericSmelter",
   "name": "Steel Mill",
   "description": "An advanced version of the steel forger. Now with the ability to produce steel from molten ingot which is melted from pig iron in just one place.",
   "health": "120",
