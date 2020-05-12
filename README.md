@@ -14,7 +14,7 @@ This mod is focused on production and transportation, also units. And the main r
 
 This mod is in still development. The sprites that you see are just temporary sprites, there will be a permanent replacement for them soon (hopefully). Ignore the commits, or click [here](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.youtube.com/watch%3Fv%3DdQw4w9WgXcQ&ved=2ahUKEwjMuKvG0IXpAhWaeisKHa3FDtYQ3ywwAnoECBUQIQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
 
-_~~Like it's going to be developed anyway~~_
+_Definitely not connected with CS's map, just thought the name would fit._
 
 ## Links
 <ul>
